@@ -1,2 +1,4 @@
 # hello-world
-CSE 360 Assignment 1
+CSE 360 Hello World git demo
+
+Abraham Trinh
